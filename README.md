@@ -59,7 +59,7 @@ The project provides two interfaces that share the same business classes and dat
 
 ## Screenshots
 
-### Login Screen
+## Login Screen
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/30e2c3e4-a8f2-4808-9a21-7ef06ede1c76"
