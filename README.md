@@ -25,7 +25,7 @@ The project provides two interfaces that share the same business classes and dat
 - **JavaFX GUI** for graphical interaction.
 - **Console UI** as an additional command-line version.
 
-> **Academic Notice:** This project was developed for learning and course assessment purposes. It is not intended for production banking use.
+> **Academic Notice:** This project was developed for learning and course assessment purposes. It is not intended for production banking use..
 
 ---
 
